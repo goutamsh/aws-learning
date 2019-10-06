@@ -7,6 +7,10 @@
 
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html?icmpid=docs_ec2_console
 
+Update OS
+
+sudo yum update 
+
 5. Install node on ec2
 
 https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/setting-up-node-on-ec2-instance.html
