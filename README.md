@@ -25,4 +25,9 @@ Command to scp to copy file to ec2 instance:
 scp -i ../weather-app-kp.pem ./hello.js ec2-user@ec2-34-194-68-153.compute-1.amazonaws.com:/home/ec2-user
 
 
-UserData script can be found at 
+UserData script can be found [here](https://github.com/goutamsh/aws-learning/blob/master/user_data.sh) 
+
+UserData is the script which runs once during first startup of EC2 instance.
+
+
+
